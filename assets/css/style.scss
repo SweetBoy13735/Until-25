@@ -1,0 +1,12 @@
+@import "{{ site.theme }}";
+
+@font-face {
+	font-family: "Until 25";
+	font-style: italic;
+	src: url("../Until25-Italic.otf") format("opentype");
+}
+
+h1#until-25 {
+	font: italic normal 50px / 1 "Until 25", monospace;
+	color: #141414;
+}
