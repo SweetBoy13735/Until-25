@@ -1,8 +1,6 @@
 # Contributing to Until 25
-Thanks for having an interest in contributing, however since it's a hightly-personalised project, the only contributions I'm accepting are bug reports.
+Thanks for taking a look! It means a lot! :D
 
-## Issue submissions
-If you encounter any problems, the best way you can highlight it is to [create an issue](https://github.com/SweetBoy13735/Until-25/issues).
-
-1. Please prefix your title with "**BUG:** ", leading on with the bug at hand.
-2. Dive into further detail of what happened in the description. If possible, please include console outputs and/or steps to reproduce the bug.
+Since it's a highly-personalised project, the only contributions I'm accepting are bug reports. If you've spotted one:
+1. [Create an issue](https://github.com/SweetBoy13735/Until-25/issues), label it as a bug and briefly elaborate in the title.
+2. Dive into further detail with a full description. Please include relevant media and/or console outputs if possible. If you can consistently replicate the bug, document the steps you took.
